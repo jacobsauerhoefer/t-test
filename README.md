@@ -1,3 +1,3 @@
 # t-test
 
-Refer to [a relative link](Aspin-Welch t-test.ipynb)
+Refer to [notebook](/Aspin-Welch t-test.ipynb)
